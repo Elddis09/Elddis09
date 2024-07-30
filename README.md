@@ -1,6 +1,6 @@
 ## Hi there, I'm Reddis Angel - aka [Elddis09]👋
 
-## About Me 🌸:
+## 🌸About Me :
 - 🌱 I’m currently learning web programming.
 - 💬 Ask me about anything.
 - 📫 How to reach me: 
