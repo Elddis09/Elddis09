@@ -15,6 +15,7 @@
 ## ⚒️Work Experience :
 #### - [FourSquare Computer](https://www.instagram.com/fscomp.bdg/?hl=id) | Admin Online Shop | Bandung `Juli - September 2022`
 
+---
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/reddis-angel-45a204237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
