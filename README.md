@@ -9,5 +9,8 @@
 - ⚡ Fun fact: I love the smell of books but not reading them hihi😁
 
 ## 🏫Education :
-1. Universitas Adhirajasa Reswara Sanjaya | Informatics Engineering | 2022 - Now
-2. SMAS Al-Hadi Bandung | MIPA | 2019 - 2022
+#### 1. Universitas Adhirajasa Reswara Sanjaya | Informatics Engineering | `2022 - Now`
+#### 2. SMAS Al-Hadi Bandung | MIPA | `2019 - 2022`
+
+## ⚒️Work Experience :
+#### - FourSquare Computer | Admin Online Shop | Bandung `juli - September 2022`
