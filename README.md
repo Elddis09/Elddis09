@@ -6,7 +6,7 @@
 - 📫 How to reach me: 
   adis.anjeli01@gmail.com
 - ⚡ Fun fact: I love the smell of books but not reading them hihi😁
-
+---
 ## 🏫Education :
 #### 1. [Universitas Adhirajasa Reswara Sanjaya](https://ars.ac.id/) | Informatics Engineering | `2022 - Now`
 #### 2. [SMAS Al-Hadi Bandung](https://www.instagram.com/sma_alhadi_bandung/?hl=id) | MIPA | `2019 - 2022`
