@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning web programming.
 - 💬 Ask me about anything.
 - 📫 How to reach me: 
-  ddisangel@gmail.com
+  adis.anjeli01@gmail.com
 - ⚡ Fun fact: I love the smell of books but not reading them hihi😁
 
 ## 🏫Education :
