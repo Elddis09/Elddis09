@@ -1,11 +1,6 @@
 ## Hi there, I'm Reddis Angel - aka [Elddis09]👋
 
-## 🌸About Me :
-- 🌱 I’m currently learning web programming.
-- 💬 Ask me about anything.
-- 📫 How to reach me: 
-  adis.anjeli01@gmail.com
-- ⚡ Fun fact: I love the smell of books but not reading them hihi😁
+
 
 ## 🏫Education :
 #### 1. [Universitas Adhirajasa Reswara Sanjaya](https://ars.ac.id/) | Informatics Engineering | `2022 - Now`
