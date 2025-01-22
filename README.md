@@ -1,7 +1,7 @@
 ## Hi there, I'm Reddis Angel - aka [Elddis09]👋
 
 ## 🌸About Me :
-- 🌱 I’m currently learning web programming.
+- 🌱 I’m currently learning Web Programming & Data Analyst | Data Science.
 - 💬 Ask me about anything.
 - 📫 How to reach me: 
   adis.anjeli01@gmail.com
